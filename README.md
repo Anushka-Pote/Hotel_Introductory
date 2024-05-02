@@ -17,7 +17,7 @@ To access the Hotel Introductory Site, follow these steps:
 
 **Clone the Repository:** Clone this repository to your local machine using the following command:
 
-git clone https://github.com/your-username/hotel-introductory-site.git
+git clone https://github.com/Anushka-Pote/Hotel_Introductory
 
 **Navigate to the Directory:** Open a terminal or command prompt and navigate to the directory where you cloned the repository:
 
